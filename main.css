@@ -132,3 +132,10 @@ hr {
     margin-bottom: 0;
     color:#679b9b;
 }
+.arrow{
+  position: absolute;
+  height: 40px;
+  width: 40px;
+  right:100px;
+}
+
