@@ -102,7 +102,7 @@ h2 {
 hr {
   border: solid #679b9b;
   border-style: dotted none none none;
-  width: 3%;
+  width: 40px;
   border-width: 6px;
 }
 .hrule {
@@ -112,7 +112,7 @@ hr {
 .hori-bot {
   border: solid #679b9b;
   border-style: dotted none none none;
-  width: 3%;
+  width: 40px;
   border-width: 6px;
 }
 .insta {
