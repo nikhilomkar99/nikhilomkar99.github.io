@@ -61,6 +61,11 @@ h2 {
   height:12.5rem;
   width:12.5rem;
 }
+.arch{
+    height:10.938rem;
+  width:10.938rem;
+  float: left;
+}
 .architect {
   height:10.938rem;
   width:10.938rem;
@@ -138,16 +143,4 @@ hr {
   height:2.5rem;
   width: 2.5rem;
   right:6.25rem;
-}
-ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
-  background-color: #f1fcfc;
-}
-li {
-  font-family: 'Open Sans', sans-serif;
-  float:right;
-  margin:1.25;
 }
